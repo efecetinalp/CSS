@@ -1,0 +1,110 @@
+header img{
+    display: block;
+    margin: auto;
+    justify-content: center;
+    padding: 0;
+}
+
+section{
+    margin-top: 0;
+    width: 90%;
+    background-color: #EEEEEE;
+    display: block;
+    margin: 0px auto;
+}
+
+section ul{
+    margin: 3px auto;
+}
+
+section ul li{
+    list-style: none;
+    justify-content: center;
+    display: flex;
+}
+
+section ul li p{
+    margin: 0px auto;
+}
+
+section ul li input{
+    width: 300px;
+}
+
+section ul li button{
+    width: 120px;
+    margin: 0px 2px;
+}
+
+footer{
+    width: 90%;
+    height: 70px;
+    list-style: none;
+    margin: 0px auto;
+    justify-content: center;
+    display: flex;
+}
+
+footer ul li{
+    align-items: center;
+    justify-items: center;
+    display: grid;
+    margin: auto;
+    padding: 0;
+}
+
+footer ul{
+    margin: auto 0px;
+    list-style: none;
+}
+
+footer ul li p{
+    margin: auto 0px;
+}
+
+footer ul li input{
+    height: 12px;
+}
+
+footer ul li button{
+    height: 20px;
+    display: flex;
+}
+
+.footer-1{
+    padding: 7px;
+    margin: 0px 2px 0px 0px;
+    width: 85%;
+    background-color: #7EE5DA;
+}
+
+.footer-2{
+    padding: 5px;
+    font-size: 12px;
+    margin: auto 2px auto 0px;
+    width: 60%;
+    background-color: #70CCC2;
+}
+
+.footer-3{
+    padding: 1px;
+    font-size: 12px;
+    margin: 0px 2px 0px 0px;
+    width: 100%;
+    background-color: #62B3AA;
+}
+
+.container{
+    display: flex;
+    font-size: 12px;
+    margin: 15px auto;
+    justify-content: center;
+}
+
+.align-button{
+    display: flex;
+}
+
+.align-button button{
+    margin: 0 10px;
+}
